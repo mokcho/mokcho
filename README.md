@@ -2,9 +2,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=pink)
 
- 🌴🌳🌲 🌱🌱  🛶 ⛲️ 🎠  🌱🌱 🌲🌳🌴
-
-
 ###  Welcome! to Pearl Gardens 
 here I plant various 🌲 trees, 🌻 flowers that grow all year around - some grow fast, some grow steady -
 but in whichever speed they are still making progress in 👀 unseen places
