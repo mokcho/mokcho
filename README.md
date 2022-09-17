@@ -32,7 +32,9 @@ Film
 
 ## New Plants in Season ! 
 
-## 
+## Resting Area 🍵
+Games
+- <img src="https://img.shields.io/badge/League of Legends -6495ED?style=flat-square&logo=RiotGames&logoColor=white"/></a> <img src="https://img.shields.io/badge/Teamfights Tactics -6495ED?style=flat-square&logo=RiotGames&logoColor=white"/></a>
 
 
 <!--
