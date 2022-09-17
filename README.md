@@ -6,7 +6,7 @@
 take your time looking around all roots and braches 🍃
 
 ## Owner 👩🏻‍🌾
-
+고졸
 
 ## Planting Equipments 🛶
 
