@@ -1,11 +1,12 @@
-# 🌳 Pearl Gardens 🌳
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=pink)
+# 🌳 Pearl Gardens 🌳 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=pink)
 
 ###  Welcome! to Pearl Gardens 
 take your time looking around all roots and braches 🍃
 
 ## Owner 👩🏻‍🌾
+
+<a href="https://velog.io/@perla0328"><img src="https://img.shields.io/badge/Tech Blog (Kor)-66CDAA?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@perla0328"/></a>
+
 Sungkyunkwan University (Seoul, Korea) 2018.02 ~
 - Russian Language & Literature
 - Appliance of Artificial Intelligence
@@ -14,27 +15,27 @@ Sungkyunkwan University (Seoul, Korea) 2018.02 ~
 
 
 currently blooming 🌱  ... 
-- <img src="https://img.shields.io/badge/Neural View Synthesis-BC8F8F?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Text Classification-BC8F8F?style=flat-square&logo=Python&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/Neural View Synthesis-BC8F8F?style=flat&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Text Classification-BC8F8F?style=flat&logo=Python&logoColor=white"/></a>
 
 ## Planting Equipments 🛶
 
 Code
-- <img src="https://img.shields.io/badge/Python-5F9EA0?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/R-5F9EA0?style=flat-square&logo=R&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/Python-5F9EA0?style=flat&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/R-5F9EA0?style=flat&logo=R&logoColor=white"/></a>
 
 Design
-- <img src="https://img.shields.io/badge/Adobe Photoshop-8FBC8B?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a> <img src="https://img.shields.io/badge/Adobe Illustrator-8FBC8B?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></a> <img src="https://img.shields.io/badge/Adobe InDesign-8FBC8B?style=flat-square&logo=AdobeInDesign&logoColor=white"/></a> 
+- <img src="https://img.shields.io/badge/Adobe Photoshop-8FBC8B?style=flat&logo=AdobePhotoshop&logoColor=white"/></a> <img src="https://img.shields.io/badge/Adobe Illustrator-8FBC8B?style=flat&logo=AdobeIllustrator&logoColor=white"/></a> <img src="https://img.shields.io/badge/Adobe InDesign-8FBC8B?style=flat&logo=AdobeInDesign&logoColor=white"/></a> 
 
 Film
-- <img src="https://img.shields.io/badge/Adobe Premiere Pro -BDB76B?style=flat-square&logo=AdobePremierePro&logoColor=white"/></a> <img src="https://img.shields.io/badge/Adobe After Effects-BDB76B?style=flat-square&logo=AdobeAfterEffects&logoColor=white"/></a> 
+- <img src="https://img.shields.io/badge/Adobe Premiere Pro -BDB76B?style=flat&logo=AdobePremierePro&logoColor=white"/></a> <img src="https://img.shields.io/badge/Adobe After Effects-BDB76B?style=flat&logo=AdobeAfterEffects&logoColor=white"/></a> 
 
 3D Modeling
-- <img src="https://img.shields.io/badge/Blender -DB7093?style=flat-square&logo=Blender&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/Blender -DB7093?style=flat&logo=Blender&logoColor=white"/></a>
 
 ## New Plants in Season ! 
 
 ## Resting Area 🍵
 Games
-- <img src="https://img.shields.io/badge/League of Legends -6495ED?style=flat-square&logo=RiotGames&logoColor=white"/></a> <img src="https://img.shields.io/badge/Teamfights Tactics -6495ED?style=flat-square&logo=RiotGames&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/League of Legends -6495ED?style=flat&logo=RiotGames&logoColor=white"/></a> <img src="https://img.shields.io/badge/Teamfights Tactics -6495ED?style=flat&logo=RiotGames&logoColor=white"/></a>
 
 
 <!--
