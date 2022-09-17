@@ -1,6 +1,6 @@
 # 🌳 Pearl Gardens 🌳 
 
-###  Welcome! to Pearl Gardens 
+###  Welcome! to Pearl Gardens (2022.09)
 I grow shit where they normally don't, maybe even outer space someday, 
 take your time looking around all roots and braches 🍃
 
@@ -18,9 +18,6 @@ take your time looking around all roots and braches 🍃
 - INR
 - NLP
 
-## Blooming Seedlings 🌱
-<img src="https://img.shields.io/badge/Neural View Synthesis-BC8F8F?style=flat&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Text Classification-BC8F8F?style=flat&logo=Python&logoColor=white"/></a>
-
 ## Garden Supplies 🛶
 
 Code - <img src="https://img.shields.io/badge/Python-5F9EA0?style=flat&logo=Python&logoColor=white"/></a><img src="https://img.shields.io/badge/PyTorch-5F9EA0?style=flat&logo=PyTorch&logoColor=white"/></a><img src="https://img.shields.io/badge/Tensorflow-5F9EA0?style=flat&logo=Tensorflow&logoColor=white"/></a><img src="https://img.shields.io/badge/Selenium-5F9EA0?style=flat&logo=Selenium&logoColor=white"/></a> <img src="https://img.shields.io/badge/R-5F9EA0?style=flat&logo=R&logoColor=white"/></a>
@@ -31,13 +28,24 @@ Film - <img src="https://img.shields.io/badge/Adobe Premiere Pro -BDB76B?style=f
 
 3D Modeling - <img src="https://img.shields.io/badge/Blender -DB7093?style=flat&logo=Blender&logoColor=white"/></a>
 
-## New Plants in Season ! 
+## Blooming Seedlings 🌱
+<img src="https://img.shields.io/badge/Neural View Synthesis-BC8F8F?style=flat&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Text Classification-BC8F8F?style=flat&logo=Python&logoColor=white"/></a>
+
+## Picked Fruits 🍓
+
+- TOEFL 116 (2017, expired)
+- TOEIC 990 (2022)
 
 🍈 melons yay
 
 ## Resting Area 🍵
-Games : <a href="https://www.op.gg/summoners/kr/%EC%84%B1%EB%8C%80%EB%9F%AC%EB%AC%B8%EA%B9%80%EC%A7%84%EC%A3%BC"><img src="https://img.shields.io/badge/League of Legends -6495ED?style=flat&logo=RiotGames&logoColor=white&link=https://www.op.gg/summoners/kr/%EC%84%B1%EB%8C%80%EB%9F%AC%EB%AC%B8%EA%B9%80%EC%A7%84%EC%A3%BC"/></a> <img src="https://img.shields.io/badge/Teamfights Tactics -6495ED?style=flat&logo=RiotGames&logoColor=white"/></a>
+Games - <a href="https://www.op.gg/summoners/kr/%EC%84%B1%EB%8C%80%EB%9F%AC%EB%AC%B8%EA%B9%80%EC%A7%84%EC%A3%BC"><img src="https://img.shields.io/badge/League of Legends -6495ED?style=flat&logo=RiotGames&logoColor=white&link=https://www.op.gg/summoners/kr/%EC%84%B1%EB%8C%80%EB%9F%AC%EB%AC%B8%EA%B9%80%EC%A7%84%EC%A3%BC"/></a> <img src="https://img.shields.io/badge/Teamfights Tactics -6495ED?style=flat&logo=RiotGames&logoColor=white"/></a>
 
+(not so) fun fact ab me 
+- my sternum once broke and I get inflammations there like every 2 weeks, just casual.
+- my brain also bled and liver ruptured too
+- also mild pneumonia during covid
+- used up my knee cartilages at 16
 
 <!--
 **mokcho/mokcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
