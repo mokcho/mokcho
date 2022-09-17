@@ -6,9 +6,10 @@
 take your time looking around all roots and braches 🍃
 
 ## Owner 👩🏻‍🌾
-고졸
+Sungkyunkwan University 2018.02 ~
 
-currently studying ... <img src="https://img.shields.io/badge/Neural View Synthesis-BC8F8F?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Text Classification-BC8F8F?style=flat-square&logo=Python&logoColor=white"/></a>
+currently blooming 🌱  ... 
+- <img src="https://img.shields.io/badge/Neural View Synthesis-BC8F8F?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Text Classification-BC8F8F?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ## Planting Equipments 🛶
 
