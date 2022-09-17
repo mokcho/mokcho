@@ -12,11 +12,11 @@ so take your time looking around all roots and braches 🍃
 
 ## Planting Equipments 👩🏻‍🌾
 
-Code
-<img src="https://img.shields.io/badge/Python-HoneyDew?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/R-9cf?style=flat-square&logo=R&logoColor=white"/></a>
+- Code
+- <img src="https://img.shields.io/badge/Python-HoneyDew?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/R-9cf?style=flat-square&logo=R&logoColor=white"/></a>
 
-Design
-<img src="https://img.shields.io/badge/Python-9cf?style=flat-square&logo=Python&logoColor=white"/></a> 
+- Design
+- <img src="https://img.shields.io/badge/Python-9cf?style=flat-square&logo=Python&logoColor=white"/></a> 
 
 
 
