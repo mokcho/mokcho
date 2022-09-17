@@ -12,13 +12,14 @@ so take your time looking around all roots and braches 🍃
 
 ## Planting Equipments 👩🏻‍🌾
 
-- Code
-<img src="https://img.shields.io/badge/Python-HoneyDew?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/R-9cf?style=flat-square&logo=R&logoColor=white"/></a>
+Code
+- <img src="https://img.shields.io/badge/Python-5F9EA0?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/R-5F9EA0?style=flat-square&logo=R&logoColor=white"/></a>
 
-- Design
-<img src="https://img.shields.io/badge/Python-9cf?style=flat-square&logo=Python&logoColor=white"/></a> 
+Design
+- <img src="https://img.shields.io/badge/Adobe Photoshop-8FBC8B?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a> <img src="https://img.shields.io/badge/Adobe Illustrator-8FBC8B?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></a> <img src="https://img.shields.io/badge/Adobe InDesign-8FBC8B?style=flat-square&logo=AdobeInDesign&logoColor=white"/></a> 
 
-
+Film
+- <img src="https://img.shields.io/badge/Adobe Premiere Pro -BDB76B?style=flat-square&logo=AdobePremierePro&logoColor=white"/></a> <img src="https://img.shields.io/badge/Adobe After Effects-BDB76B?style=flat-square&logo=AdobeAfterEffects&logoColor=white"/></a> 
 
 ## New Plants in Season ! 
 
