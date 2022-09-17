@@ -1,20 +1,19 @@
-# 🌳 Pearl Gardens 🌳 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=pink)
+# 🌳 Pearl Gardens 🌳 
 
 ###  Welcome! to Pearl Gardens 
-I grow shit where they normally don't, 
+I grow shit where they normally don't, maybe even outer space someday, 
 take your time looking around all roots and braches 🍃
 
 
 ## Owner 👩🏻‍🌾
+<a href="https://velog.io/@perla0328"><img src="https://img.shields.io/badge/Tech Blog (Kor)-66CDAA?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@perla0328"/></a> <a href="https://www.instagram.com/perla0328/"><img src="https://img.shields.io/badge/Insta-DA70D6?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/perla0328/"/></a>
 
-<a href="https://velog.io/@perla0328"><img src="https://img.shields.io/badge/Tech Blog (Kor)-66CDAA?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@perla0328"/></a>
-
-Sungkyunkwan University (Seoul, Korea) 2018.02 ~
+🎓 Sungkyunkwan University (Seoul, Korea) 2018.02 ~
 - Russian Language & Literature
 - Appliance of Artificial Intelligence
 - Appliance of Data Science
 
-IRIS Lab (Suwon, Korea) 2022.08 ~
+👩🏻‍🔬 IRIS Lab (Suwon, Korea) 2022.08 ~
 - Undergrad Member
 - INR
 - NLP
