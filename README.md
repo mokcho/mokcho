@@ -27,6 +27,9 @@ Design
 Film
 - <img src="https://img.shields.io/badge/Adobe Premiere Pro -BDB76B?style=flat-square&logo=AdobePremierePro&logoColor=white"/></a> <img src="https://img.shields.io/badge/Adobe After Effects-BDB76B?style=flat-square&logo=AdobeAfterEffects&logoColor=white"/></a> 
 
+3D Modeling
+- <img src="https://img.shields.io/badge/Blender -DB7093?style=flat-square&logo=Blender&logoColor=white"/></a>
+
 ## New Plants in Season ! 
 
 ## 
