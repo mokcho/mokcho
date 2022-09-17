@@ -12,12 +12,15 @@ Sungkyunkwan University (Seoul, Korea) 2018.02 ~
 - Appliance of Artificial Intelligence
 - Appliance of Data Science
 
+IRIS Lab (Suwon, Korea) 2022.08 ~
+- Undergrad Member
+
 ## Blooming Seedlings 🌱
 <img src="https://img.shields.io/badge/Neural View Synthesis-BC8F8F?style=flat&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Text Classification-BC8F8F?style=flat&logo=Python&logoColor=white"/></a>
 
 ## Garden Supplies 🛶
 
-Code - <img src="https://img.shields.io/badge/Python-5F9EA0?style=flat&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/PyTorch-5F9EA0?style=flat&logo=PyTorch&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tensorflow-5F9EA0?style=flat&logo=Tensorflow&logoColor=white"/></a> <img src="https://img.shields.io/badge/Selenium-5F9EA0?style=flat&logo=Selenium&logoColor=white"/></a><img src="https://img.shields.io/badge/R-5F9EA0?style=flat&logo=R&logoColor=white"/></a>
+Code - <img src="https://img.shields.io/badge/Python-5F9EA0?style=flat&logo=Python&logoColor=white"/></a><img src="https://img.shields.io/badge/PyTorch-5F9EA0?style=flat&logo=PyTorch&logoColor=white"/></a><img src="https://img.shields.io/badge/Tensorflow-5F9EA0?style=flat&logo=Tensorflow&logoColor=white"/></a><img src="https://img.shields.io/badge/Selenium-5F9EA0?style=flat&logo=Selenium&logoColor=white"/></a> <img src="https://img.shields.io/badge/R-5F9EA0?style=flat&logo=R&logoColor=white"/></a>
 
 Design - <img src="https://img.shields.io/badge/Adobe Photoshop-8FBC8B?style=flat&logo=AdobePhotoshop&logoColor=white"/></a> <img src="https://img.shields.io/badge/Adobe Illustrator-8FBC8B?style=flat&logo=AdobeIllustrator&logoColor=white"/></a> <img src="https://img.shields.io/badge/Adobe InDesign-8FBC8B?style=flat&logo=AdobeInDesign&logoColor=white"/></a> 
 
