@@ -14,6 +14,8 @@ Sungkyunkwan University (Seoul, Korea) 2018.02 ~
 
 IRIS Lab (Suwon, Korea) 2022.08 ~
 - Undergrad Member
+- INR
+- NLP
 
 ## Blooming Seedlings 🌱
 <img src="https://img.shields.io/badge/Neural View Synthesis-BC8F8F?style=flat&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Text Classification-BC8F8F?style=flat&logo=Python&logoColor=white"/></a>
