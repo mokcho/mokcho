@@ -29,6 +29,7 @@ Film - <img src="https://img.shields.io/badge/Adobe Premiere Pro -BDB76B?style=f
 3D Modeling - <img src="https://img.shields.io/badge/Blender -DB7093?style=flat&logo=Blender&logoColor=white"/></a>
 
 ## Blooming Seedlings 🌱
+I recently am studying... 
 <img src="https://img.shields.io/badge/Neural View Synthesis-BC8F8F?style=flat&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Text Classification-BC8F8F?style=flat&logo=Python&logoColor=white"/></a>
 
 ## Picked Fruits 🍓
