@@ -34,10 +34,9 @@ I recently am studying...
 
 ## Picked Fruits 🍓
 
-- TOEFL 116 (2017, expired)
-- TOEIC 990 (2022)
-
-🍈 melons yay
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mokcho)](https://solved.ac/mokcho/)
+- 🍈 TOEFL 116 (2017, expired)
+- 🍎 TOEIC 990 (2022)
 
 ## Resting Area 🍵
 Games - <a href="https://www.op.gg/summoners/kr/%EC%84%B1%EB%8C%80%EB%9F%AC%EB%AC%B8%EA%B9%80%EC%A7%84%EC%A3%BC"><img src="https://img.shields.io/badge/League of Legends -6495ED?style=flat&logo=RiotGames&logoColor=white&link=https://www.op.gg/summoners/kr/%EC%84%B1%EB%8C%80%EB%9F%AC%EB%AC%B8%EA%B9%80%EC%A7%84%EC%A3%BC"/></a> <img src="https://img.shields.io/badge/Teamfights Tactics -6495ED?style=flat&logo=RiotGames&logoColor=white"/></a>
