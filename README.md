@@ -1,8 +1,7 @@
 # 🌳 Pearl Gardens 🌳 
 
-###  Welcome! to Pearl Gardens (2022.09)
-I grow shit where they normally don't, maybe even outer space someday, 
-take your time looking around all roots and braches 🍃
+###  Welcome!  (2022.09)
+I grow shit where they normally don't🍃
 
 
 ## Owner 👩🏻‍🌾
