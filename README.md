@@ -1,18 +1,28 @@
 # 🌳 Pearl Gardens 🌳 
 
-###  Welcome!  (2022.09)
+###  Welcome!  (2022.11)
 I grow shit where they normally don't🍃
 
 
 ## Owner 👩🏻‍🌾
 <a href="https://velog.io/@perla0328"><img src="https://img.shields.io/badge/Tech Blog (Kor)-66CDAA?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@perla0328"/></a> <a href="https://www.instagram.com/perla0328/"><img src="https://img.shields.io/badge/Insta-DA70D6?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/perla0328/"/></a>
 
-🎓 Sungkyunkwan University (Seoul, Korea) 2018.02 ~
+🎓 Sungkyunkwan University | 2018.02 ~
 - Russian Language & Literature
 - Appliance of Artificial Intelligence
 - Appliance of Data Science
 
-👩🏻‍🔬 IRIS Lab (Suwon, Korea) 2022.08 ~
+👩🏻‍💼 성균관대 No.1 경영전략학회 S-ONE | 2020.09 ~ 2021.12
+- Spoon 대상 - [크리에이터 DJ 유입 전략 제시] `2020`
+- E-Land 대상 - [3040 여성을 위한 참여형 큐레이션 서비스 제시] `2020`
+- 호식이두마리치킨 은상 - [신메뉴 출시 전략 제시] `2021`
+- 아몬즈 최우수상 - [새로운 PB & PL 포지셔닝 방안 제시] `2021`
+- HS 애드 영 크리에이터스 컴피티션 -  [3040 주부층 대상 경동나비엔의 청정환기시스템키친 플러스의 브랜드 경험 확대를 위한 커뮤니케이션 전략 제안] `2021`
+- 파마웍스 퍼포먼스마케팅 프로젝트 최우수상 - [퍼포먼스 마케팅 채널 구축, 데이터 분석, 광고 집행] `2021`
+- LX인터내셔널 프로젝트 수료 - [스마트미러를 활용한 신사업 제안] `2021`
+- 경영전략학회 S-ONE 35th Contents & Assets Chief `2021`
+
+👩🏻‍🔬 IRIS Lab | 2022.08 ~
 - Undergrad Member
 
 ## Garden Supplies 🛶
@@ -26,21 +36,14 @@ Film - <img src="https://img.shields.io/badge/Adobe Premiere Pro -BDB76B?style=f
 3D Modeling - <img src="https://img.shields.io/badge/Blender -DB7093?style=flat&logo=Blender&logoColor=white"/></a>
 
 ## Blooming Seedlings 🌱
+- NLP (sentiment analysis, extractive qa)
 
 ## Picked Fruits 🍓
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mokcho)](https://solved.ac/mokcho/)
-- 🍈 TOEFL 116 (2017, expired)
-- 🍎 TOEIC 990 (2022)
+- 🍈 TOEFL 116 (expired) `2017` 
+- 🍎 TOEIC 990 `2022`
 
 ## Resting Area 🍵
 Games - <a href="https://www.op.gg/summoners/kr/%EC%84%B1%EB%8C%80%EB%9F%AC%EB%AC%B8%EA%B9%80%EC%A7%84%EC%A3%BC"><img src="https://img.shields.io/badge/League of Legends -6495ED?style=flat&logo=RiotGames&logoColor=white&link=https://www.op.gg/summoners/kr/%EC%84%B1%EB%8C%80%EB%9F%AC%EB%AC%B8%EA%B9%80%EC%A7%84%EC%A3%BC"/></a> <img src="https://img.shields.io/badge/Teamfights Tactics -6495ED?style=flat&logo=RiotGames&logoColor=white"/></a>
-
-(not so) fun fact ab me 
-- my sternum once broke and I get inflammations there like every 2 weeks, just casual.
-- my brain also bled and liver ruptured too
-- also mild pneumonia during covid
-- used up my knee cartilages at 16
 
 <!--
 **mokcho/mokcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
