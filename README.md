@@ -7,12 +7,17 @@ I grow shit where they normally don't🍃
 ## Owner 👩🏻‍🌾
 <a href="https://velog.io/@perla0328"><img src="https://img.shields.io/badge/Tech Blog (Kor)-66CDAA?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@perla0328"/></a> 
 
-🎓 Sungkyunkwan University | 2018.02 ~
+🎓 Sungkyunkwan University (2018.02 ~ )
 - Russian Language & Literature
 - Appliance of Artificial Intelligence
 - Appliance of Data Science
 
-👩🏻‍💼 성균관대 No.1 경영전략학회 S-ONE | 2020.09 ~ 2021.12
+👩🏻‍💼 성균관대 No.1 경영전략학회 S-ONE (2020.09 ~ 2021.12 )
+
+👩🏻‍🔬 IRIS Lab (2022.08 ~ )
+- Undergrad Member
+
+## Awards & Experiences
 - Spoon 대상 - [크리에이터 DJ 유입 전략 제시] `2020`
 - E-Land 대상 - [3040 여성을 위한 참여형 큐레이션 서비스 제시] `2020`
 - 호식이두마리치킨 은상 - [신메뉴 출시 전략 제시] `2021`
@@ -21,9 +26,29 @@ I grow shit where they normally don't🍃
 - 파마웍스 퍼포먼스마케팅 프로젝트 최우수상 - [퍼포먼스 마케팅 채널 구축, 데이터 분석, 광고 집행] `2021`
 - LX인터내셔널 프로젝트 수료 - [스마트미러를 활용한 신사업 제안] `2021`
 - 경영전략학회 S-ONE 35th Contents & Assets Chief `2021`
+- SKKU Artificial Intelligence Course T.A `2022`
 
-👩🏻‍🔬 IRIS Lab | 2022.08 ~
-- Undergrad Member
+## Courseworks
+
+including, but not limited to ... 
+
+|Semester|Course|Grade|
+|------|---|---|
+|2022 Fall|Natural Language Processing|Not Yet Graded|
+|2022 Fall|Introduction to Deep Neural Networks|Not Yet Graded|
+|2022 Fall|Introduction to Computer Vision|Not Yet Graded|
+|2022 Fall|Dostoevsky and Artificial Intelligence|Not Yet Graded|
+|2022 Fall|Paper Writing with Python on Humanities and Social Sciences|A+|
+|2022 Summer|Science and Technology Writing|A+|
+|2022 International Summer|Artificial Intelligence|T.A|
+|2022 Spring|Deep Learning : Image Processing|A|
+|2022 Spring|Introduction to Artificial Intelligence|A+|
+|2022 Spring|Computational Thinking and Appliance|A+|
+|2022 Spring|Introduction to Data Structure and Algorithms|A+|
+|2022 Spring|Software Research|A|
+|2021 Fall|Technology Ethics and Future Confucianism in AI Era|A+|
+|2021 Fall|Discrete Mathematics|A+|
+|2021 Fall|Data Science and R|B+|
 
 ## Garden Supplies 🛶
 
