@@ -34,10 +34,10 @@ including, but not limited to ...
 
 |Semester|Course|Grade|
 |------|---|---|
-|2022 Fall|Natural Language Processing|Not Yet Graded|
-|2022 Fall|Introduction to Deep Neural Networks|Not Yet Graded|
-|2022 Fall|Introduction to Computer Vision|Not Yet Graded|
-|2022 Fall|Dostoevsky and Artificial Intelligence|Not Yet Graded|
+|2022 Fall|Natural Language Processing|A+|
+|2022 Fall|Introduction to Deep Neural Networks|A|
+|2022 Fall|Introduction to Computer Vision|A|
+|2022 Fall|Dostoevsky and Artificial Intelligence|A+|
 |2022 Fall|Paper Writing with Python on Humanities and Social Sciences|A+|
 |2022 Summer|Science and Technology Writing|A+|
 |2022 International Summer|Artificial Intelligence|T.A|
