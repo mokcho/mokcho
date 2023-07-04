@@ -5,7 +5,6 @@ I grow shit where they normally don't🍃
 
 
 ## Owner 👩🏻‍🌾
-<a href="https://velog.io/@perla0328"><img src="https://img.shields.io/badge/Tech Blog (Kor)-66CDAA?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@perla0328"/></a> 
 
 🎓 Sungkyunkwan University (2018.02 ~ )
 - Russian Language & Literature
