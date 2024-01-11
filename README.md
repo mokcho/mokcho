@@ -1,20 +1,23 @@
-# 🌳 Pearl Gardens 🌳 
+# Pearl's Github
 
-###  Welcome!  (2022.11)
-I grow shit where they normally don't🍃
+###  Welcome  (2024.1)
+I grow shit where they normally don't
 
+## Owner 
 
-## Owner 👩🏻‍🌾
+🎓 Sungkyunkwan University (2018.02 ~ 2024.02)
+- B.A. in Russian Language & Literature
+- B.S. in Appliance of Artificial Intelligence
 
-🎓 Sungkyunkwan University (2018.02 ~ )
-- Russian Language & Literature
-- Appliance of Artificial Intelligence
-- Appliance of Data Science
+🎓 Sungkyunkwan University (2024.02 ~)
+- M.S. in Electrical and Computer Engineering (pursuing)
 
 👩🏻‍💼 성균관대 No.1 경영전략학회 S-ONE (2020.09 ~ 2021.12 )
 
 👩🏻‍🔬 IRIS Lab (2022.08 ~ )
-- Undergrad Member
+- Undergrad Member (2022.08~2023.08)
+- Combined BS-MS Student (2023.08~2024.02)
+- MS Student (2024.02~)
 
 ## Awards & Experiences
 - Spoon 대상 - [크리에이터 DJ 유입 전략 제시] `2020`
@@ -26,6 +29,7 @@ I grow shit where they normally don't🍃
 - LX인터내셔널 프로젝트 수료 - [스마트미러를 활용한 신사업 제안] `2021`
 - 경영전략학회 S-ONE 35th Contents & Assets Chief `2021`
 - SKKU Artificial Intelligence Course T.A `2022`
+- 성균관대학교 우수튜터상 딥러닝1:이미지처리 `2023`
 
 ## Courseworks
 
@@ -33,6 +37,7 @@ including, but not limited to ...
 
 |Semester|Course|Grade|
 |------|---|---|
+
 |2022 Fall|Natural Language Processing|A+|
 |2022 Fall|Introduction to Deep Neural Networks|A|
 |2022 Fall|Introduction to Computer Vision|A|
@@ -49,7 +54,7 @@ including, but not limited to ...
 |2021 Fall|Discrete Mathematics|A+|
 |2021 Fall|Data Science and R|B+|
 
-## Garden Supplies 🛶
+## Supplies 
 
 Code - <img src="https://img.shields.io/badge/Python-5F9EA0?style=flat&logo=Python&logoColor=white"/></a><img src="https://img.shields.io/badge/PyTorch-5F9EA0?style=flat&logo=PyTorch&logoColor=white"/></a><img src="https://img.shields.io/badge/Tensorflow-5F9EA0?style=flat&logo=Tensorflow&logoColor=white"/></a><img src="https://img.shields.io/badge/Selenium-5F9EA0?style=flat&logo=Selenium&logoColor=white"/></a> <img src="https://img.shields.io/badge/R-5F9EA0?style=flat&logo=R&logoColor=white"/></a>
 
@@ -59,14 +64,17 @@ Film - <img src="https://img.shields.io/badge/Adobe Premiere Pro -BDB76B?style=f
 
 3D Modeling - <img src="https://img.shields.io/badge/Blender -DB7093?style=flat&logo=Blender&logoColor=white"/></a>
 
-## Blooming Seedlings 🌱
-- NLP (sentiment analysis, extractive qa)
+## Currently Exploring
+- NLP
+- Multilingual
+- Multimodal
 
-## Picked Fruits 🍓
-- 🍈 TOEFL 116 (expired) `2017` 
-- 🍎 TOEIC 990 `2022`
+## Certificates 
+- TOEFL 116 (expired) `2017` 
+- TOEIC 990 (expired) `2022`
+- MOS Office Power Point 2016 Specialist
 
-## Resting Area 🍵
+## Resting Area 
 Games - <a href="https://www.op.gg/summoners/kr/%EC%84%B1%EB%8C%80%EB%9F%AC%EB%AC%B8%EA%B9%80%EC%A7%84%EC%A3%BC"><img src="https://img.shields.io/badge/League of Legends -6495ED?style=flat&logo=RiotGames&logoColor=white&link=https://www.op.gg/summoners/kr/%EC%84%B1%EB%8C%80%EB%9F%AC%EB%AC%B8%EA%B9%80%EC%A7%84%EC%A3%BC"/></a> <img src="https://img.shields.io/badge/Teamfights Tactics -6495ED?style=flat&logo=RiotGames&logoColor=white"/></a>
 
 <!--
