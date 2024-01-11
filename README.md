@@ -36,6 +36,7 @@ I grow shit where they normally don't
 including, but not limited to ... 
 
 |Semester|Course|Grade|
+
 |------|---|---|
 
 |2022 Fall|Natural Language Processing|A+|
