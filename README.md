@@ -5,19 +5,22 @@ I grow shit where they normally don't
 
 ## Owner 
 
-🎓 Sungkyunkwan University (2018.02 ~ 2024.02)
-- B.A. in Russian Language & Literature
-- B.S. in Appliance of Artificial Intelligence
-
+🎓 Carnegie Mellon University (2024.08 ~ 2025.02)
+- Visiting Scholar, fully funded by Korean Government (IITP)
+  
 🎓 Sungkyunkwan University (2024.02 ~)
 - M.S. in Electrical and Computer Engineering (pursuing)
 
-👩🏻‍💼 성균관대 No.1 경영전략학회 S-ONE (2020.09 ~ 2021.12 )
-
+🎓 Sungkyunkwan University (2018.02 ~ 2024.02)
+- B.S. in Appliance of Artificial Intelligence
+- B.A. in Russian Language & Literature
+  
 👩🏻‍🔬 IRIS Lab (2022.08 ~ )
 - Undergrad Member (2022.08~2023.08)
 - Combined BS-MS Student (2023.08~2024.02)
 - MS Student (2024.02~)
+
+👩🏻‍💼 성균관대 No.1 경영전략학회 S-ONE (2020.09 ~ 2021.12 )
 
 ## Awards & Experiences
 - Spoon 대상 - [크리에이터 DJ 유입 전략 제시] `2020`
@@ -37,6 +40,9 @@ including, but not limited to ...
 
 |Semester|Course|Grade|
 |------|---|---|
+|2024 Fall CMU|11-775 Large Scale Multimedia Data Analysis (Rita Singh)|-|
+|2024 Fall CMU|11-785 Intro to Deep Learning (Bhiksha Raj)|-|
+|2024 Fall CMU|Natural Language Processing (David Mortensen)|-|
 |2022 Fall|Natural Language Processing|A+|
 |2022 Fall|Introduction to Deep Neural Networks|A|
 |2022 Fall|Introduction to Computer Vision|A|
