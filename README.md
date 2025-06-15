@@ -1,6 +1,6 @@
 # Pearl's Github
 
-###  Welcome  (2024.1)
+###  Welcome  (2025.5)
 I grow shit where they normally don't
 
 ## Owner 
@@ -21,6 +21,10 @@ I grow shit where they normally don't
 - MS Student (2024.02~)
 
 👩🏻‍💼 성균관대 No.1 경영전략학회 S-ONE (2020.09 ~ 2021.12 )
+
+## Publications
+- Do Not Mimic My Voice: Speaker Identity Unlearning for Zero-Shot Text-to-Speech `ICML 2025`
+- Domain-Specific Multilingual Strategies for Medical NLP: A Cross-Lingual Analysis of Orthographic and Phonemic Representations `IEEE EMBC 2025`
 
 ## Awards & Experiences
 - Spoon 대상 - [크리에이터 DJ 유입 전략 제시] `2020`
@@ -70,13 +74,16 @@ Film - <img src="https://img.shields.io/badge/Adobe Premiere Pro -BDB76B?style=f
 3D Modeling - <img src="https://img.shields.io/badge/Blender -DB7093?style=flat&logo=Blender&logoColor=white"/></a>
 
 ## Currently Exploring
-- NLP
+- NLP, Speech
 - Multilingual
-- Multimodal
+- Machine Unlearning
+- Low-Resource Varieties
 
 ## Certificates 
-- TOEFL 116 (expired) `2017` 
+- TOEFL 113 `2024`
+- OPic AL `2024`
 - TOEIC 990 (expired) `2022`
+- TOEFL 116 (expired) `2017` 
 - MOS Office Power Point 2016 Specialist
 
 ## Resting Area 
