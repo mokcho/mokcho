@@ -1,42 +1,30 @@
-# Pearl's Github
+# Jinju's (Pearl) Github
 
-###  Welcome  (2025.5)
-I grow shit where they normally don't
+###  Welcome  (2025.10)
+Prospective PhD, Fall 2026
+For most recent updates - [homepage](https://mokcho.github.io/)
 
-## Owner 
+
+## Affiliations
+🎓 **Carnegie Mellon University (2025.09 ~)**
+- Visiting Researcher at LTI, collaborating with **Prof. Bhiksha Raj** and **Prof. Rita Singh**, funded by Sungkyunkwan University (BK)
 
 🎓 Carnegie Mellon University (2024.08 ~ 2025.02)
-- Visiting Scholar, fully funded by Korean Government (IITP)
+- Visiting Researcher at S3D, collaborating with **Prof. David R. Mortensen**, funded by Korean Government (IITP)
   
-🎓 Sungkyunkwan University (2024.02 ~)
-- M.S. in Electrical and Computer Engineering (pursuing)
+🎓 **Sungkyunkwan University (2024.02 ~)**
+- M.S. in Electrical and Computer Engineering (candidate), advised by **Prof. Jong Hwan Ko**, full scholarship
 
 🎓 Sungkyunkwan University (2018.02 ~ 2024.02)
+- Magna Cum Laude
 - B.S. in Appliance of Artificial Intelligence
 - B.A. in Russian Language & Literature
-  
-👩🏻‍🔬 IRIS Lab (2022.08 ~ )
-- Undergrad Member (2022.08~2023.08)
-- Combined BS-MS Student (2023.08~2024.02)
-- MS Student (2024.02~)
-
-👩🏻‍💼 성균관대 No.1 경영전략학회 S-ONE (2020.09 ~ 2021.12 )
 
 ## Publications
+- 2 papers are under review at October ARR
+- No Encore: Unlearning as Opt-Out in Music Generation `NeurIPS 2025 AI4Music Workshop`
 - Do Not Mimic My Voice: Speaker Identity Unlearning for Zero-Shot Text-to-Speech `ICML 2025`
 - Domain-Specific Multilingual Strategies for Medical NLP: A Cross-Lingual Analysis of Orthographic and Phonemic Representations `IEEE EMBC 2025`
-
-## Awards & Experiences
-- Spoon 대상 - [크리에이터 DJ 유입 전략 제시] `2020`
-- E-Land 대상 - [3040 여성을 위한 참여형 큐레이션 서비스 제시] `2020`
-- 호식이두마리치킨 은상 - [신메뉴 출시 전략 제시] `2021`
-- 아몬즈 최우수상 - [새로운 PB & PL 포지셔닝 방안 제시] `2021`
-- HS 애드 영 크리에이터스 컴피티션 -  [3040 주부층 대상 경동나비엔의 청정환기시스템키친 플러스의 브랜드 경험 확대를 위한 커뮤니케이션 전략 제안] `2021`
-- 파마웍스 퍼포먼스마케팅 프로젝트 최우수상 - [퍼포먼스 마케팅 채널 구축, 데이터 분석, 광고 집행] `2021`
-- LX인터내셔널 프로젝트 수료 - [스마트미러를 활용한 신사업 제안] `2021`
-- 경영전략학회 S-ONE 35th Contents & Assets Chief `2021`
-- SKKU Artificial Intelligence Course T.A `2022`
-- 성균관대학교 우수튜터상 딥러닝1:이미지처리 `2023`
 
 ## Courseworks
 
@@ -63,31 +51,14 @@ including, but not limited to ...
 |2021 Fall|Discrete Mathematics|A+|
 |2021 Fall|Data Science and R|B+|
 
-## Supplies 
-
-Code - <img src="https://img.shields.io/badge/Python-5F9EA0?style=flat&logo=Python&logoColor=white"/></a><img src="https://img.shields.io/badge/PyTorch-5F9EA0?style=flat&logo=PyTorch&logoColor=white"/></a><img src="https://img.shields.io/badge/Tensorflow-5F9EA0?style=flat&logo=Tensorflow&logoColor=white"/></a><img src="https://img.shields.io/badge/Selenium-5F9EA0?style=flat&logo=Selenium&logoColor=white"/></a> <img src="https://img.shields.io/badge/R-5F9EA0?style=flat&logo=R&logoColor=white"/></a>
-
-Design - <img src="https://img.shields.io/badge/Adobe Photoshop-8FBC8B?style=flat&logo=AdobePhotoshop&logoColor=white"/></a> <img src="https://img.shields.io/badge/Adobe Illustrator-8FBC8B?style=flat&logo=AdobeIllustrator&logoColor=white"/></a> <img src="https://img.shields.io/badge/Adobe InDesign-8FBC8B?style=flat&logo=AdobeInDesign&logoColor=white"/></a> 
-
-Film - <img src="https://img.shields.io/badge/Adobe Premiere Pro -BDB76B?style=flat&logo=AdobePremierePro&logoColor=white"/></a> <img src="https://img.shields.io/badge/Adobe After Effects-BDB76B?style=flat&logo=AdobeAfterEffects&logoColor=white"/></a> 
-
-3D Modeling - <img src="https://img.shields.io/badge/Blender -DB7093?style=flat&logo=Blender&logoColor=white"/></a>
-
-## Currently Exploring
-- NLP, Speech
-- Multilingual
-- Machine Unlearning
-- Low-Resource Varieties
 
 ## Certificates 
 - TOEFL 113 `2024`
 - OPic AL `2024`
-- TOEIC 990 (expired) `2022`
-- TOEFL 116 (expired) `2017` 
+- TOEIC 990 `2022`
+- TOEFL 116 `2017` 
 - MOS Office Power Point 2016 Specialist
 
-## Resting Area 
-Games - <a href="https://www.op.gg/summoners/kr/%EC%84%B1%EB%8C%80%EB%9F%AC%EB%AC%B8%EA%B9%80%EC%A7%84%EC%A3%BC"><img src="https://img.shields.io/badge/League of Legends -6495ED?style=flat&logo=RiotGames&logoColor=white&link=https://www.op.gg/summoners/kr/%EC%84%B1%EB%8C%80%EB%9F%AC%EB%AC%B8%EA%B9%80%EC%A7%84%EC%A3%BC"/></a> <img src="https://img.shields.io/badge/Teamfights Tactics -6495ED?style=flat&logo=RiotGames&logoColor=white"/></a>
 
 <!--
 **mokcho/mokcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
