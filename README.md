@@ -1,39 +1,25 @@
 # Jinju's (Pearl) Github
 
-###  Welcome  (2025.10)
-Prospective PhD, Fall 2026
+###  Welcome  (2026.10)
+PhD at UT Austin
 For most recent updates - [homepage](https://mokcho.github.io/)
 
 
-## Affiliations
-🎓 **Carnegie Mellon University (2025.09 ~)**
-- Visiting Researcher at LTI, collaborating with **Prof. Bhiksha Raj** and **Prof. Rita Singh**, funded by Sungkyunkwan University (BK)
+## Prev. Affiliations
 
-🎓 Carnegie Mellon University (2024.08 ~ 2025.02)
-- Visiting Researcher at S3D, collaborating with **Prof. David R. Mortensen**, funded by Korean Government (IITP)
+**Sony AI/Sony**
+- Research Intern at Music Foundation Model Team of Sony AI/Sony, Tokyo (2026.05~2026.08), with continued collaboration
+
+🎓 **Carnegie Mellon University**
+- Visiting Researcher at LTI (2025.09 ~ 2026.03), collaborated with **Prof. Bhiksha Raj** and **Prof. Rita Singh**, funded by Sungkyunkwan University (BK)
+- Visiting Researcher at S3D (2024.08 ~ 2025.02), collaborated with **Prof. David R. Mortensen**, funded by Korean Government (IITP)
   
-🎓 **Sungkyunkwan University (2024.02 ~)**
-- M.S. in Electrical and Computer Engineering (candidate), advised by **Prof. Jong Hwan Ko**, full scholarship
+🎓 **Sungkyunkwan University**
+- M.S. in Electrical and Computer Engineering, advised by **Prof. Jong Hwan Ko**, full scholarship
 
-🎓 Sungkyunkwan University (2018.02 ~ 2024.02)
-- Magna Cum Laude
+🎓 Sungkyunkwan University (Magna Cum Laude)
 - B.S. in Appliance of Artificial Intelligence
 - B.A. in Russian Language & Literature
-
-## Publications
-- 2 papers are under review at October ARR
-- No Encore: Unlearning as Opt-Out in Music Generation `NeurIPS 2025 AI4Music Workshop`
-- Do Not Mimic My Voice: Speaker Identity Unlearning for Zero-Shot Text-to-Speech `ICML 2025`
-- Domain-Specific Multilingual Strategies for Medical NLP: A Cross-Lingual Analysis of Orthographic and Phonemic Representations `IEEE EMBC 2025`
-
-## Certificates 
-- TOEFL 113 `2024`
-- OPic AL `2024`
-- TOEIC 990 `2022`
-- TOEFL 116 `2017` 
-- MOS Office Power Point 2016 Specialist
-
-
 <!--
 **mokcho/mokcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
